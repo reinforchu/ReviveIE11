@@ -1,5 +1,5 @@
 # ReviveI E11
- ショートカットファイルを用いた Internet Explorer 11 を呼び出す方法。
+ ショートカットファイルを用いた Internet Explorer 11 を呼び出す方法。  
  Revive IE11 from a shortcut file.  
 ## 再現手順
  English follows Japanese.  
